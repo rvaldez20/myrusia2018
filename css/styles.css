@@ -1,0 +1,28 @@
+
+
+.m-text-color-p {
+   color: #007EBB;
+   font-size: 1.1em;
+}
+
+.m-text-color-s {
+   color: #DEBF83;
+   font-size: 1.1em;
+}
+
+.m-text-color-t {
+   color: #C01A20;
+   font-size: 1.1em;
+}
+
+.force-all-center {
+   margin: 0 33.5%;
+}
+
+.force-tdn-center {
+   margin: 0 46.5%;
+}
+
+.force-sky-center {
+   margin: 0 42.5%;
+}
